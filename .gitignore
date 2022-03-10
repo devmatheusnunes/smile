@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/config/databaseConfig.php
+
+
+.env
+.*.swp
+.*.swo
